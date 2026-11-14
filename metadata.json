@@ -1,0 +1,6 @@
+{
+  "name": "DECO Lab",
+  "description": "Interactive Digital Electronics & Computer Organization learning and simulation lab covering all 5 engineering units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
